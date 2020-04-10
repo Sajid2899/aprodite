@@ -1,0 +1,174 @@
+.carousel-inner img{
+    height: 500px;
+    width: auto;
+}
+
+.navbar{
+    height: 100px;
+    
+}
+
+.rupal{
+    display: inline-flex;
+}
+
+.card{
+    border: 50px;
+    padding-top: 100px;
+    padding-left: 30px ;
+    background-color: seashell;
+}
+
+.Ad1{
+    padding-top: 10px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 77px;
+}
+
+.Ad1 h3{
+    color: black;
+}
+
+.Ad2{
+    padding-top: 20px;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+
+}
+
+body{
+    background-color: #e3f2fd;
+}
+
+.footer-top p{
+    color: #999;
+    line-height: 25px;
+}
+
+.footer-top h2,h3{
+    color: #fff;
+}
+
+.footer-top h2{
+    font-size: 18px;
+}
+
+.footer-top{
+    background: #111;
+    padding: 80px,0;
+    margin-top: 30px;
+}
+
+.segment-one h3{
+    font-family: Courgette;
+    color: #fff;
+    letter-spacing: 3px;
+    margin: 10px 0;
+}
+
+.segment-two h2{
+    color: #fff;
+    font-family:Poppins ;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.segment-two h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+
+}
+
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.segment-two ul li{
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    line-height: 40px;
+    
+}
+
+.segment-two ul li a{
+    color: #999;
+    text-decoration: none;
+}
+
+.segment-three h2{
+    color: #fff;
+    font-family: Poppins;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.segment-three h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+
+}
+
+.segment-three a{
+    background: #494848;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+    padding-bottom: 20px;
+}
+
+.segment-three a i{
+    font-size: 20px;
+    padding: 10px 12px;
+    
+}
+
+.segment-four h2{
+    color: #fff;
+    font-family: Poppins;
+    text-transform: uppercase;
+    margin: 10px 0;
+}
+
+.segment-four h2:before{
+    content: '|';
+    color: #c65039;
+    padding-right: 10px;
+
+}
+
+.segment-four form input [type= submit]{
+    background: #c65039;
+    border : none;
+    padding: 3px 15px;
+    margin-left: -5px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.footer-bottom-text{
+    text-align: center;
+    background: #000;
+    line height: 175px;
+    padding: 20px 0;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    font-weight: 500px;
+    font-size: 56px;
+}
+
+.nav-link{
+    font-family: 'Indie Flower', cursive;
+    font-size: 28px;
+    font-weight: 500;
+}
